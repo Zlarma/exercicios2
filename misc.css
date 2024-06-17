@@ -1,0 +1,16 @@
+body{
+    top: -740px;
+}
+
+li{
+    position: relative;
+    left: -30px;
+    top: 660px;
+    text-decoration: none;
+    width: 200px;
+}
+
+#misc{
+    position: relative;
+    top: -150px;
+} 

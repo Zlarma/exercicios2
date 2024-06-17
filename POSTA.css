@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(to bottom, rgb(94, 45, 45), rgba(224, 140, 106, 0.856), rgb(233, 119, 119));
+    height: 43vh;
+    margin: 200px;
+    position:relative;
+}
+
+
+#STICK{
+    width: 200px;
+    position: relative;
+    top: -200px;
+    left: 500px;
+}
+
+
+p{
+ font-size: 20px; 
+ background: none;  
+}
+
+#pt{
+    position: relative;
+    top: 100px;
+    left: 250px;
+    width: 100px;
+}
+
